@@ -1,23 +1,15 @@
 # Lab 2
 
-Andrew Chang-DeWitt
+An exercise in basic assembly programming completed for Illinois Institute of Technology's Fall 2024 CS 350, Computer Organization & Assembly Programming course.
+Practiced assembly programming targeting a RISC-V instruction set using the [Venus RISC-V simulator](https://venus.cs61c.org/) by writing code to complete two simple tasks in assembly:
 
-## Task 1
+1. Print the sum of terms in the Fibonacci sequence to the nth term
+2. Sum the values in an array containing a fixed number of elements & print the result
 
-Screenshot of run w/ `n=6`:
+## Task 1: Fibonacci Sum
 
-![Screenshot of run w/ `n=6`](./task1n6.png)
+FIXME: finish this section
 
-Screenshot of run w/ `n=14`:
+## Task 2: Array Sum
 
-![Screenshot of run w/ `n=14`](./task1n14.png)
-
-## Task 2
-
-Screenshot of run w/ `A=[1, 2, ... , 29, 30]`:
-
-![Screenshot of run w/ `A`](./task2A.png)
-
-Screenshot of run w/ `A=[10, 20, ... , 290, 300]`:
-
-![Screenshot of run w/ `B`](./task2B.png)
+FIXME: finish this section
